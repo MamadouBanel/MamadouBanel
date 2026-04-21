@@ -4,7 +4,7 @@
 Futur ingénieur à Mines Saint-Étienne (rentrée 2026).
 
 Je travaille principalement en C/C++ sur microcontrôleurs (STM32, ESP32) et sous Linux embarqué.  
-Mon objectif à terme : travailler sur des systèmes embarqués pour le spatial.
+Mon objectif à terme : travailler sur des systèmes embarqués pour le spatial, l'aéronautique, ou l'électronqiue embarqué en general.
 
 ---
 
